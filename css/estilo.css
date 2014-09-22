@@ -1,0 +1,112 @@
+a{
+    text-decoration:none;
+    color:#fff;
+}
+article{
+        color:#4a4a4a;
+}
+aside footer {
+    background-color:#fff;
+    display:block;
+    border-radius: 1em;
+}
+body{
+    size:16px;
+    background-color:#f0f0f0;
+    padding-top:0px;
+    margin:0px;
+    color:#fff;
+}    
+footer{
+    background-color:#ffffff;
+}
+header{
+    background-color:#484848;
+    margin-top:0;
+    margin-bottom: 5px;
+    padding-left:1em;
+    font-family:helvetica;
+    color:#fff;
+    border-bottom-color:#252525;
+    border-bottom-style:solid;
+    border-bottom-width:0.15em;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+td{
+    margin-left:1em;
+    margin-bottom:0em;
+    padding-left:0.5em;
+}
+td:hover{
+    background-color:#252525;
+    margin-bottom:0px;
+}
+.nombre{
+    width:80px;
+    display:block;
+    float: left;
+}
+.derecha{
+    float:left;
+    margin-left:auto;
+    height:450px;
+    width:60px;
+}
+.center{
+    margin-left: 80px;
+    margin-top: 1em;
+    margin-right:1em;
+    width: auto; 
+    background-color:#fff;
+    border-radius: 0.5em;
+    height:450px;
+    border-style:solid;
+    border-width:0.2em;
+    position:relative;
+}
+
+footer{
+    background-color: #fff; 
+    color:#4a4a4a;
+    height:100px;
+    text-align:left; 
+    clear: both; 
+    border-radius: 0.5em;
+    border-style:solid;
+    border-width:0.2em;
+    margin-top:0.5em;
+     margin-right:1em;
+}
+.icono{
+    width:75px;
+    height:75px;
+    box-shadow: 10px 10px 5px #888888;
+}
+.iconoCLick{
+    width:75px;
+    height:75px;
+}
+.actores{
+    position:absolute;
+    width:50px;
+    height:75px;
+}
+.casoDeUso{
+    font-size:12px;
+    position:absolute;
+}
+
+.nombreActor{
+    margin:5px;
+}
+
+.sistemas{
+    position:absolute;
+    border:3px;
+    border-style:solid;
+}
+svg{
+    position:absolute;
+}
